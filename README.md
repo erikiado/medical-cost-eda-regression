@@ -69,13 +69,13 @@ Se implementaron tres enfoques para predecir los costos médicos:
 
 ---
 
-## Evaluación del Modelo
+<!-- ## Evaluación del Modelo
 
 | Modelo                    | MSE (entrenamiento) | MSE (prueba) | \( R^2 \) (entrenamiento) | \( R^2 \) (prueba) |
 |---------------------------|---------------------|--------------|---------------------------|--------------------|
 | Regresión Lineal Simple   | -                   | -            | -                         | -                  |
 | Regresión Polinomial      | -                   | -            | -                         | -                  |
-| Bosques Aleatorios        | **Bajo**            | **Bajo**     | **Alto**                  | **Alto**           |
+| Bosques Aleatorios        | **Bajo**            | **Bajo**     | **Alto**                  | **Alto**           | -->
 
 - El modelo de **bosques aleatorios** tuvo el mejor desempeño, capturando relaciones no lineales y complejas en los datos.
 
