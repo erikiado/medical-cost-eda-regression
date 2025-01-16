@@ -69,7 +69,8 @@ Se implementaron tres enfoques para predecir los costos médicos:
 
 ---
 
-<!-- ## Evaluación del Modelo
+## Evaluación del Modelo
+<!-- 
 
 | Modelo                    | MSE (entrenamiento) | MSE (prueba) | \( R^2 \) (entrenamiento) | \( R^2 \) (prueba) |
 |---------------------------|---------------------|--------------|---------------------------|--------------------|
